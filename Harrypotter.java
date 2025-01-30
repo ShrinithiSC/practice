@@ -54,7 +54,7 @@ Details obj[]=new Details[30];
 getHouse(obj);
 getRole(obj);
 getAlive(obj);
-
+System.out.println("program ended");
 	}//end of main
 	static void getHouse(Details[] obj)
 	{
